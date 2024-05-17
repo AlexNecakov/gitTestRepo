@@ -1,1 +1,1 @@
-this is a conflicting change
+this is a change to foo
